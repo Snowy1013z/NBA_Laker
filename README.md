@@ -58,8 +58,8 @@ This project examines how **Anthony Davis** evolved as a player after switching 
 ---
 
 ## 📁 Deliverables
-- 📄 `NBA_Laker - AD Role & Performance Evolution.pdf`
-- 📄 `NBA_Laker - Team Impact Analysis.pdf`
+- 📄 `NBA & Star Players.pdf` - Final Report
+- 📄 `NBA & Star Players.jpynb` - Code Workbook
 
 ---
 
